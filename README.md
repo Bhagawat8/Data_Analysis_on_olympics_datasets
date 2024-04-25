@@ -1,1 +1,3 @@
 # Data_Analysis_on_olympics_datasets
+
+### Project Description: This project delves into the fascinating world of Olympic history through data analysis. Leveraging a rich dataset from Kaggle [https://www.kaggle.com/code/gauravanand31/olympics-dataset](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results), we explore trends in athlete participation, medal distribution, and more. Interactive visualizations, crafted with Plotly, Matplotlib, and Seaborn, bring the data to life. Using Streamlit, a user-friendly web application is built, allowing anyone to explore these Olympic insights at their fingertips.
